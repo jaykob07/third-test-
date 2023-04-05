@@ -13,7 +13,7 @@ body{
     grid-template-rows: 0.5fr 8fr 1.5fr;
 }
 header{
-    color: aliceblue;
+    color: rgb(184, 215, 242);
     text-decoration: none;
     margin: 20px;
 }
